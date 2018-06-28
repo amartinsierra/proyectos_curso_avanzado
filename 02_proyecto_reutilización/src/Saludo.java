@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Saludo {
 
 	public static void main(String[] args) {
+		//esto lo pone el dev 2
 		int op;
 		int n1, n2;
 		do {
